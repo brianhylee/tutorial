@@ -1,7 +1,7 @@
 # tutorial
 
-*dot points
-    *Testing subpoints
+*  dot points
+ *Testing subpoints
     
-*Is this working?
+*  Is this working?
  *I hope so
