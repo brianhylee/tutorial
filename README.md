@@ -1,13 +1,13 @@
 # tutorial
 
 *  dot points
- *One space
+ * One space
     
 *  Is this working?
-  *Two Space
+  * Two Space
   
 * sdfsdfs
-   *Three Space
+   * Three Space
    
-*dfsdfsdf
-    *Four space
+* dfsdfsdf
+    * Four space
